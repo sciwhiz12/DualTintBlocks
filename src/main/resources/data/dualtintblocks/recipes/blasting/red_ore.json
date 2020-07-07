@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "dualtintblocks:red_ore"
+  },
+  "result": "minecraft:redstone_block",
+  "experience": 10,
+  "cookingtime": 300
+}

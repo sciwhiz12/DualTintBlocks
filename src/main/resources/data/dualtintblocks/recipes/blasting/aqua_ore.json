@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "dualtintblocks:aqua_ore"
+  },
+  "result": "minecraft:diamond_block",
+  "experience": 10,
+  "cookingtime": 300
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xBx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:gems/diamond"
+    },
+    "B": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "dualtintblocks:aqua_ore"
+  }
+}

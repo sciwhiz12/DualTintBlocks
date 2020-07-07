@@ -1,0 +1,7 @@
+{
+    "parent": "dualtintblocks:block/overlay_cube",
+    "textures": {
+        "base": "dualtintblocks:block/ore_base",
+        "overlay": "dualtintblocks:block/ore_overlay"
+    }
+}
